@@ -1,0 +1,40 @@
+body {
+     background-image: url('../img/background.jpg');
+     background-size: cover;
+   }
+
+.container {
+    border: 2px solid black;
+    padding: 25px;
+    background-color: whitesmoke;
+    padding: 30px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+
+#search-form {
+    border: 1px solid purple;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+#result-card {
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding:20px;
+}
+
+#main-content {
+    padding: 0px !important;
+}
+
+hr {
+    width: 100%;
+}
+
+img {
+    border: 1px solid rgb(17, 150, 35);
+    padding: 5px;
+}
